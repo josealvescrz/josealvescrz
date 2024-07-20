@@ -1,6 +1,6 @@
 # Olá, eu sou José, prazer! 👋
 - 🔭 Atualmente trabalho como Analista de Tecnologia no Grupo ADN
-- 🌱 Sou formado em Processos Gerenciais (IFSP, 2021) e Pós-Graduado em Administração Estratégica (2024)
+- 🌱 Sou formado em Processos Gerenciais (IFSP, 2021) e Pós-Graduado em Administração Estratégica (FIA, 2024)
 - 👨‍💻 Estudando Análise e Desenvolvimento de Sistemas no IFSP (2024)
 - ⚡ Sou fascinado pela filosofia! Acredito que mergulhar no passado nos ajuda a compreender o presente e prever o futuro!
 
