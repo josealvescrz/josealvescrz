@@ -9,5 +9,5 @@
 
 ### Fale comigo:
 <a href="mailto:jose.alvescrz@hotmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/6806/6806987.png" alt="josealvescr" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/josealvescr" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="josealvescr" height="39" width="39" /></a>
-<a href="https://instagram.com/josealvescr" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" alt="josealvescr" height="31" width="31" /></a>
+<a href="https://linkedin.com/in/josealvescr" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" alt="josealvescr" height="38" width="38" /></a>
+<a href="https://instagram.com/josealvescr" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" alt="josealvescr" height="29" width="29" /></a>
